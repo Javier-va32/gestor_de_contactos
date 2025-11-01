@@ -46,7 +46,7 @@ Los datos se guardan en un formato legible y estructurado como este:
 * Ejecuta el archivo principal:
 
 ```
-python contactos.py
+python agenda_contactos.py
 ```
 * Interactúa con el menú desde la consola.
 
